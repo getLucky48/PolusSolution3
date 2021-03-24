@@ -1,0 +1,13 @@
+D:\2_GitHub\PolusSolution3\PolusSolution3\bin\Debug\netcoreapp3.1\PolusSolution3.exe
+D:\2_GitHub\PolusSolution3\PolusSolution3\bin\Debug\netcoreapp3.1\PolusSolution3.deps.json
+D:\2_GitHub\PolusSolution3\PolusSolution3\bin\Debug\netcoreapp3.1\PolusSolution3.runtimeconfig.json
+D:\2_GitHub\PolusSolution3\PolusSolution3\bin\Debug\netcoreapp3.1\PolusSolution3.runtimeconfig.dev.json
+D:\2_GitHub\PolusSolution3\PolusSolution3\bin\Debug\netcoreapp3.1\PolusSolution3.dll
+D:\2_GitHub\PolusSolution3\PolusSolution3\bin\Debug\netcoreapp3.1\PolusSolution3.pdb
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.csprojAssemblyReference.cache
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.AssemblyInfoInputs.cache
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.AssemblyInfo.cs
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.csproj.CoreCompileInputs.cache
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.dll
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.pdb
+D:\2_GitHub\PolusSolution3\PolusSolution3\obj\Debug\netcoreapp3.1\PolusSolution3.genruntimeconfig.cache
